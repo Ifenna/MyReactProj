@@ -8,7 +8,7 @@ function App() {
       <h1>HI NA ME</h1>
       <button onClick={Onclickproject}>TESTING</button>
       <p>thiss working</p>
-      <Person  ={Onclickproject} date={y} />
+      <Person click={Onclickproject} date={y} />
       <Person date="Just testing"> Want to see how it appear </Person>
     </div>
   );
